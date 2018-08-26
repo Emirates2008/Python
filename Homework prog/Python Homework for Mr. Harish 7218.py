@@ -1,3 +1,5 @@
+#write the home work for each program differently
+
 #Problem no.1
 #If you give me your age, I will calculate when you will be a 100 years old.
 name = input("What is your name?")
